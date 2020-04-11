@@ -1,0 +1,300 @@
+11.04 13:01:06 [Multicraft] Received restart command
+11.04 13:01:06 [Multicraft] Stopping server!
+11.04 13:01:06 [Server] INFO Saving...
+11.04 13:01:06 [Server] INFO Saved the world
+11.04 13:01:06 [Server] INFO Stopping the server
+11.04 13:01:06 [Server] INFO Stopping server
+11.04 13:01:06 [Server] INFO Disabling CitizensCMD v2.4
+11.04 13:01:06 [Server] INFO Disabling HolographicDisplays v2.4.1
+11.04 13:01:06 [Server] INFO Disabling AuthMe v5.6.0-SNAPSHOT-b2385
+11.04 13:01:06 [Server] INFO Waiting for 0 tasks to finish
+11.04 13:01:06 [Server] INFO AuthMe 5.6.0-SNAPSHOT-b2385 disabled!
+11.04 13:01:06 [Server] INFO Disabling FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+11.04 13:01:06 [Server] INFO Disabling EssentialsSpawn v2.17.2.0
+11.04 13:01:06 [Server] INFO Disabling EssentialsChat v2.17.2.0
+11.04 13:01:06 [Server] INFO Disabling EssentialsProtect v2.17.2.0
+11.04 13:01:06 [Server] INFO Disabling Images v2.0.5
+11.04 13:01:06 [Server] INFO Disabling Citizens v2.0.26-SNAPSHOT (build 1812)
+11.04 13:01:06 [Server] INFO Disabling SuperLobby v4.1.3
+11.04 13:01:06 [Server] INFO Disabling ProtocolLib v4.5.0
+11.04 13:01:06 [Server] INFO Disabling Essentials v2.17.2.0
+11.04 13:01:06 [Server] INFO [Vault][Economy] Essentials Economy unhooked.
+11.04 13:01:06 [Server] INFO Disabling HubBasics v6.11.4
+11.04 13:01:06 [Server] INFO Disabling Vault v1.7.2-b107
+11.04 13:01:06 [Server] INFO Disabling ViaVersion v2.2.3
+11.04 13:01:06 [Server] INFO ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+11.04 13:01:06 [Server] INFO Disabling AntiDisconnectSpam v2.0.0
+11.04 13:01:06 [Server] INFO Shutting down...
+11.04 13:01:06 [Server] INFO Shutdown completed!
+11.04 13:01:06 [Server] INFO Disabling AntiVPN v5.11.37
+11.04 13:01:14 [Server] INFO Disabled
+11.04 13:01:14 [Server] INFO Disabling OpGuard v3.2.5
+11.04 13:01:14 [Server] INFO Disabling NoPlugins v5.1
+11.04 13:01:14 [Server] INFO NoPlugins Has been disabled!
+11.04 13:01:14 [Server] INFO Disabling WorldGuard v6.1
+11.04 13:01:14 [Server] INFO Shutting down executor and waiting for any pending tasks...
+11.04 13:01:14 [Server] INFO Disabling Multiverse-Core v2.5-b699
+11.04 13:01:14 [Server] INFO Disabling PlaceholderAPI v2.10.4
+11.04 13:01:14 [Server] INFO Disabling Bot-Sentry-Spigot v6.1.2-BULLETPROOF
+11.04 13:01:14 [Server] INFO Disabling WorldEdit v6.1;no_git_id
+11.04 13:01:14 [Server] INFO Disabling LuckPerms v5.0.72
+11.04 13:01:14 [Server] INFO Starting shutdown process...
+11.04 13:01:14 [Server] INFO Closing storage...
+11.04 13:01:14 [Server] INFO Goodbye!
+11.04 13:01:14 [Server] INFO Disabling CleanroomGenerator v1.0.0
+11.04 13:01:14 [Server] INFO Saving players
+11.04 13:01:14 [Server] INFO Saving worlds
+11.04 13:01:14 [Server] INFO Saving chunks for level 'world'/Overworld
+11.04 13:01:14 [Server] INFO Saving chunks for level 'world_nether'/Nether
+11.04 13:01:14 [Server] INFO Saving chunks for level 'lobby'/Overworld
+11.04 13:01:14 [Server] INFO Saving chunks for level 'world_the_end'/The End
+11.04 13:01:14 [Multicraft] Server shut down (stopping)
+11.04 13:01:14 [Multicraft] Server stopped
+11.04 13:01:17 [Multicraft] Loading server properties
+11.04 13:01:17 [Multicraft] Starting server!
+11.04 13:01:17 [Multicraft] Loaded config for "spigot-1.8.8"
+11.04 13:01:17 [Multicraft] Updating eula.txt file
+11.04 13:01:17 [Server] INFO Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=128M; support was removed in 8.0
+11.04 13:01:18 [Server] INFO Loading libraries, please wait...
+11.04 13:01:22 [Server] INFO Starting minecraft server version 1.8.8
+11.04 13:01:22 [Server] INFO Loading properties
+11.04 13:01:22 [Server] INFO Default game type: SURVIVAL
+11.04 13:01:22 [Server] INFO This server is running CraftBukkit version git-Spigot-21fe707-e1ebe52 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+11.04 13:01:22 [Server] INFO Server Ping Player Sample Count: 12
+11.04 13:01:22 [Server] INFO Using 4 threads for Netty based IO
+11.04 13:01:22 [Server] INFO Debug logging is disabled
+11.04 13:01:22 [Server] INFO Generating keypair
+11.04 13:01:23 [Server] INFO Starting Minecraft server on 45.35.139.226:25596
+11.04 13:01:23 [Server] INFO Using epoll channel type
+11.04 13:01:23 [Server] INFO Set PluginClassLoader as parallel capable
+11.04 13:01:24 [Server] INFO Loading CleanroomGenerator v1.0.0
+11.04 13:01:24 [Server] INFO Loading LuckPerms v5.0.72
+11.04 13:01:24 [Server] INFO Loading WorldEdit v6.1;no_git_id
+11.04 13:01:24 [Server] INFO Loading Bot-Sentry-Spigot v6.1.2-BULLETPROOF
+11.04 13:01:24 [Server] INFO ======
+11.04 13:01:24 [Server] INFO > Loading Bot-Sentry-Spigot-6.1.2-BULLETPROOF
+11.04 13:01:24 [Server] INFO > 0 loaded blacklisted ips
+11.04 13:01:24 [Server] INFO > 69 loaded whitelisted ips
+11.04 13:01:24 [Server] INFO > Created by: jaqobb (jaqobbdev@gmail.com)
+11.04 13:01:24 [Server] INFO > Discord Support Group: https://discord.gg/uxRTwDa
+11.04 13:01:24 [Server] INFO ======
+11.04 13:01:24 [Server] INFO ======
+11.04 13:01:24 [Server] INFO Preparing system blacklisting...
+11.04 13:01:24 [Server] INFO Could not install ipset package.
+11.04 13:01:24 [Server] INFO Make sure your server is run using root.
+11.04 13:01:24 [Server] INFO Auto-disabling system blacklisting....
+11.04 13:01:24 [Server] INFO ======
+11.04 13:01:24 [Server] INFO Loading PlaceholderAPI v2.10.4
+11.04 13:01:24 [Server] INFO Loading Multiverse-Core v2.5-b699
+11.04 13:01:24 [Server] INFO Loading WorldGuard v6.1
+11.04 13:01:24 [Server] INFO Loading NoPlugins v5.1
+11.04 13:01:24 [Server] INFO Loading OpGuard v3.2.5
+11.04 13:01:24 [Server] INFO Loading AntiVPN v5.11.37
+11.04 13:01:24 [Server] INFO [Anti-VPN] Checking version of ACF
+11.04 13:01:24 [Server] INFO [Anti-VPN] Checking version of SQLite
+11.04 13:01:24 [Server] INFO [Anti-VPN] Checking version of MySQL
+11.04 13:01:26 [Server] INFO ====================================
+11.04 13:01:26 [Server] INFO Anti-VPN runs better on Paper!
+11.04 13:01:26 [Server] INFO https://whypaper.emc.gs/
+11.04 13:01:26 [Server] INFO ====================================
+11.04 13:01:26 [Server] INFO ====================================
+11.04 13:01:26 [Server] INFO DEAR LORD why are you on 1.8???
+11.04 13:01:26 [Server] INFO Have you tried ViaVersion or ProtocolSupport lately?
+11.04 13:01:26 [Server] INFO ====================================
+11.04 13:01:26 [Server] INFO Loading AntiDisconnectSpam v2.0.0
+11.04 13:01:26 [Server] INFO Loading ViaVersion v2.2.3
+11.04 13:01:26 [Server] INFO ViaVersion 2.2.3 is now loaded, injecting!
+11.04 13:01:26 [Server] INFO Loading 1.12.2 -> 1.13 block mapping...
+11.04 13:01:26 [Server] INFO Loading 1.12.2 -> 1.13 item mapping...
+11.04 13:01:26 [Server] INFO Loading new 1.13 tags...
+11.04 13:01:26 [Server] INFO Loading 1.12.2 -> 1.13 enchantment mapping...
+11.04 13:01:26 [Server] INFO Loading 1.12.2 -> 1.13 sound mapping...
+11.04 13:01:26 [Server] INFO Loading translation mapping
+11.04 13:01:27 [Server] INFO Loading 1.13.2 -> 1.14 blockstate mapping...
+11.04 13:01:27 [Server] INFO Loading 1.13.2 -> 1.14 block mapping...
+11.04 13:01:27 [Server] INFO Loading 1.13.2 -> 1.14 item mapping...
+11.04 13:01:27 [Server] INFO Loading 1.13.2 -> 1.14 sound mapping...
+11.04 13:01:27 [Server] INFO Loading 1.14 blockstates...
+11.04 13:01:27 [Server] INFO Loading 1.14 heightmap data...
+11.04 13:01:27 [Server] INFO Loading 1.14.4 -> 1.15 blockstate mapping...
+11.04 13:01:28 [Server] INFO Loading 1.14.4 -> 1.15 block mapping...
+11.04 13:01:28 [Server] INFO Loading 1.14.4 -> 1.15 item mapping...
+11.04 13:01:28 [Server] INFO Loading 1.14.4 -> 1.15 sound mapping...
+11.04 13:01:28 [Server] INFO Loading Vault v1.7.2-b107
+11.04 13:01:28 [Server] INFO Loading HubBasics v6.11.4
+11.04 13:01:28 [Server] INFO Loading Essentials v2.17.2.0
+11.04 13:01:28 [Server] INFO Loading ProtocolLib v4.5.0
+11.04 13:01:29 [Server] INFO Loading SuperLobby v4.1.3
+11.04 13:01:29 [Server] INFO Loading Citizens v2.0.26-SNAPSHOT (build 1812)
+11.04 13:01:29 [Server] INFO Loading Images v2.0.5
+11.04 13:01:29 [Server] INFO Loading EssentialsProtect v2.17.2.0
+11.04 13:01:29 [Server] INFO Loading EssentialsChat v2.17.2.0
+11.04 13:01:29 [Server] INFO Loading EssentialsSpawn v2.17.2.0
+11.04 13:01:29 [Server] INFO Loading FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+11.04 13:01:29 [Server] INFO Loading AuthMe v5.6.0-SNAPSHOT-b2385
+11.04 13:01:29 [Server] INFO Loading HolographicDisplays v2.4.1
+11.04 13:01:29 [Server] INFO Loading CitizensCMD v2.4
+11.04 13:01:29 [Server] INFO Enabling CleanroomGenerator v1.0.0
+11.04 13:01:29 [Server] INFO CleanroomGenerator v1.0.0 enabled
+11.04 13:01:29 [Server] INFO Enabling LuckPerms v5.0.72
+11.04 13:01:29 [Server] INFO __    
+11.04 13:01:29 [Server] INFO |    |__)   LuckPerms v5.0.72
+11.04 13:01:29 [Server] INFO |___ |      Running on Bukkit - CraftBukkit
+11.04 13:01:29 [Server] INFO Loading configuration...
+11.04 13:01:29 [Server] INFO Loading storage provider... [H2]
+11.04 13:01:29 [Server] INFO Loading internal permission managers...
+11.04 13:01:29 [Server] INFO Performing initial data load...
+11.04 13:01:30 [Server] INFO Successfully enabled. (took 836ms)
+11.04 13:01:30 [Server] INFO Enabling Vault v1.7.2-b107
+11.04 13:01:30 [Server] INFO [Economy] Essentials Economy found: Waiting
+11.04 13:01:30 [Server] INFO [Permission] SuperPermissions loaded as backup permission system.
+11.04 13:01:30 [Server] INFO Enabled Version 1.7.2-b107
+11.04 13:01:30 [Server] INFO Registered Vault permission & chat hook.
+11.04 13:01:30 [Server] INFO Enabling ProtocolLib v4.5.0
+11.04 13:01:30 [Server] INFO Started structure compiler thread.
+11.04 13:01:30 [Server] INFO Enabling FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+11.04 13:01:30 [Server] ERROR Failed to retrieve proxy Id. Disabling BungeeCord support
+11.04 13:01:30 [Server] INFO java.lang.NumberFormatException: For input string: "stats: 17c74d01"
+11.04 13:01:30 [Server] INFO at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.lang.Long.parseLong(Long.java:589) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.lang.Long.valueOf(Long.java:776) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.lang.Long.decode(Long.java:928) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.UUID.fromString(UUID.java:198) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.Iterator.forEachRemaining(Iterator.java:116) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499) ~[?:1.8.0_131]
+11.04 13:01:30 [Server] INFO at com.github.games647.fastlogin.bukkit.listener.BungeeCordListener.loadBungeeCordIds(BungeeCordListener.java:108) [FastLogin.jar:?]
+11.04 13:01:30 [Server] INFO at com.github.games647.fastlogin.bukkit.listener.BungeeCordListener.<init>(BungeeCordListener.java:39) [FastLogin.jar:?]
+11.04 13:01:30 [Server] INFO at com.github.games647.fastlogin.bukkit.FastLoginBukkit.onEnable(FastLoginBukkit.java:72) [FastLogin.jar:?]
+11.04 13:01:30 [Server] INFO at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+11.04 13:01:30 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+11.04 13:01:31 [Multicraft] Skipped 82 lines due to rate limit (30/s)
+11.04 13:01:31 [Server] INFO Preparing start region for level 1 (Seed: 1097397536838234528)
+
+11.04 13:01:31 [Server] INFO Replace Blocks: [1, 5]
+11.04 13:01:31 [Server] INFO Nerfing mobs spawned from spawners: false
+11.04 13:01:31 [Server] INFO Cactus Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO Cane Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO Melon Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO Mushroom Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO Pumpkin Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO Sapling Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO Wheat Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO NetherWart Growth Modifier: 100%
+11.04 13:01:31 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+11.04 13:01:31 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+11.04 13:01:31 [Server] INFO Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+11.04 13:01:31 [Server] INFO Random Lighting Updates: false
+11.04 13:01:31 [Server] INFO Structure Info Saving: true
+11.04 13:01:31 [Server] INFO Sending up to 10 chunks per packet
+11.04 13:01:31 [Server] INFO Max Entity Collisions: 8
+11.04 13:01:32 [Multicraft] Skipped 13 lines due to rate limit (30/s)
+11.04 13:01:32 [Server] INFO -------- World Settings For [lobby] --------
+11.04 13:01:32 [Server] INFO Mob Spawn Range: 4
+11.04 13:01:32 [Server] INFO Anti X-Ray: true
+11.04 13:01:32 [Server] INFO Engine Mode: 1
+11.04 13:01:32 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+11.04 13:01:32 [Server] INFO Replace Blocks: [1, 5]
+11.04 13:01:32 [Server] INFO Nerfing mobs spawned from spawners: false
+11.04 13:01:32 [Server] INFO Cactus Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO Cane Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO Melon Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO Mushroom Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO Pumpkin Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO Sapling Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO Wheat Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO NetherWart Growth Modifier: 100%
+11.04 13:01:32 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+11.04 13:01:32 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+11.04 13:01:32 [Server] INFO Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+11.04 13:01:32 [Server] INFO Random Lighting Updates: false
+11.04 13:01:32 [Server] INFO Structure Info Saving: true
+11.04 13:01:32 [Server] INFO Sending up to 10 chunks per packet
+11.04 13:01:32 [Server] INFO Max Entity Collisions: 8
+11.04 13:01:32 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+11.04 13:01:32 [Server] INFO Max TNT Explosions: 100
+11.04 13:01:32 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+11.04 13:01:32 [Server] INFO Item Despawn Rate: 6000
+11.04 13:01:32 [Server] INFO Item Merge Radius: 2.5
+11.04 13:01:32 [Server] INFO Arrow Despawn Rate: 1200
+11.04 13:01:32 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+11.04 13:01:32 [Server] INFO View Distance: 10
+11.04 13:01:33 [Multicraft] Skipped 33 lines due to rate limit (30/s)
+11.04 13:01:33 [Server] INFO {c.z.h.HikariDataSource} AntiVPN-SQLite - Starting...
+11.04 13:01:33 [Server] INFO {c.z.h.HikariDataSource} AntiVPN-SQLite - Start completed.
+11.04 13:01:34 [Server] INFO Plan was not found. Support for it has been disabled.
+11.04 13:01:34 [Server] INFO Enabling support for PlaceholderAPI
+11.04 13:01:34 [Server] INFO Enabled
+11.04 13:01:34 [Server] INFO [Version 5.11.37] [2 Commands] [3 Events] [0 Tasks]
+11.04 13:01:34 [Server] INFO Enabling AntiDisconnectSpam v2.0.0
+11.04 13:01:34 [Server] INFO Starting...
+11.04 13:01:34 [Server] INFO Loading configs...
+11.04 13:01:34 [Server] INFO Config loaded!
+11.04 13:01:34 [Server] INFO Configs loaded!
+11.04 13:01:34 [Server] INFO Started!
+11.04 13:01:34 [Server] INFO Enabling ViaVersion v2.2.3
+11.04 13:01:34 [Server] INFO Enabling HubBasics v6.11.4
+11.04 13:01:34 [Server] INFO [CommandFramework] Loaded 3 command(s).
+11.04 13:01:34 [Server] WARN [ItemManager] Error while loading custom item: example-1.yml - Material was not found.
+11.04 13:01:34 [Server] INFO [ItemManager] Loaded 1 item(s).
+11.04 13:01:34 [Server] WARN [MenuManager] Error while loading menu: example-menu.yml - Invalid sound.
+11.04 13:01:34 [Server] INFO [MenuManager] Loaded 0 menu(s).
+11.04 13:01:34 [Server] INFO [LocationManager] Loaded 2 warp(s).
+11.04 13:01:34 [Server] WARN [ModuleManager] The BossAnnouncer module requires at least version 1.10.x, which means it will not be enabled.
+11.04 13:01:34 [Server] WARN [JumpPads] Invalid Sound [BLOCK_ANVIL_LAND] for Jump Pad
+11.04 13:01:34 [Server] INFO [ModuleManager] Loaded 11/12 module(s).
+11.04 13:01:34 [Server] INFO Enabling Essentials v2.17.2.0
+11.04 13:01:35 [Server] INFO Attempting to convert old kits in config.yml to new kits.yml
+11.04 13:01:35 [Server] INFO No kits found to migrate.
+11.04 13:01:35 [Server] INFO Using legacy item data provider as mob spawner provider.
+11.04 13:01:35 [Server] INFO Using legacy item data provider as spawn egg provider.
+11.04 13:01:35 [Server] INFO Using legacy potion meta provider as potion meta provider.
+11.04 13:01:35 [Server] INFO Loaded 852 items from items.csv.
+11.04 13:01:35 [Server] INFO Using locale es
+11.04 13:01:35 [Server] INFO ServerListPingEvent: Spigot iterator API
+11.04 13:01:35 [Server] INFO Starting Metrics. Opt-out using the global bStats config.
+11.04 13:01:35 [Server] INFO [Vault][Economy] Essentials Economy hooked.
+11.04 13:01:35 [Server] INFO Using Vault based permissions (LuckPerms)
+11.04 13:01:35 [Server] INFO Enabling SuperLobby v4.1.3
+11.04 13:01:35 [Server] INFO -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+11.04 13:01:35 [Server] INFO _____                       _           _     _           
+11.04 13:01:35 [Server] INFO / ____|                     | |         | |   | |          
+11.04 13:01:35 [Server] INFO | (___  _   _ _ __   ___ _ __| |     ___ | |__ | |__  _   _ 
+11.04 13:01:35 [Server] INFO \___ \| | | | '_ \ / _ \ '__| |    / _ \| '_ \| '_ \| | | |
+11.04 13:01:35 [Server] INFO ____) | |_| | |_) |  __/ |  | |___| (_) | |_) | |_) | |_| |
+11.04 13:01:35 [Server] INFO |_____/ \__,_| .__/ \___|_|  |______\___/|_.__/|_.__/ \__, |
+11.04 13:01:35 [Server] INFO | |                                       __/ |
+11.04 13:01:35 [Multicraft] Skipped 56 lines due to rate limit (30/s)
+11.04 13:01:35 [Server] WARN Note: Hooks.bungeecord is set to false but your server appears to be running in bungeecord mode (see your spigot.yml). In order to allow the datasource caching and the AuthMeBungee add-on to work properly you have to enable this option!
+11.04 13:01:35 [Server] INFO AuthMe 5.6.0-SNAPSHOT build n.2385 successfully enabled!
+11.04 13:01:35 [Server] INFO Enabling HolographicDisplays v2.4.1
+11.04 13:01:35 [Server] INFO Enabled player relative placeholders with ProtocolLib.
+11.04 13:01:35 [Server] INFO Enabling CitizensCMD v2.4
+11.04 13:01:36 [Server] INFO CitizensCMD 2.4 By Mateus Moreira @LichtHund
+11.04 13:01:36 [Server] INFO Using English messages!
+11.04 13:01:36 [Server] INFO Using PlaceholderAPI!
+11.04 13:01:36 [Server] INFO Using Vault!
+11.04 13:01:36 [Server] INFO Server permissions file permissions.yml is empty, ignoring it
+11.04 13:01:36 [Server] Startup Done (6.088s)! For help, type "help" or "?"
+11.04 13:01:36 [Server] INFO ViaVersion detected server version: 1.8.x(47)
+11.04 13:01:36 [Server] INFO An update was found! for SuperLobby. Please update to recieve latest version. download: https://www.spigotmc.org/resources/20400
+11.04 13:01:36 [Server] INFO Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+11.04 13:01:36 [Server] WARN No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+11.04 13:01:36 [Server] INFO There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+11.04 13:01:36 [Server] WARN Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+11.04 13:01:36 [Server] INFO Placeholder expansion registration initializing...
+11.04 13:01:36 [Server] INFO Loaded 7 NPCs.
+11.04 13:01:36 [Server] INFO An update for PlaceholderAPI (v2.10.5) is available at:
+11.04 13:01:36 [Server] INFO https://www.spigotmc.org/resources/placeholderapi.6245/
+11.04 13:01:36 [Server] INFO Checking for Updates ... 
+11.04 13:01:36 [Server] INFO Hooking into auth plugin: AuthMe
+11.04 13:01:36 [Server] INFO BungeeCord setting detected. No auth plugin is required
+11.04 13:01:36 [Server] INFO No new version available
+11.04 13:01:38 [Server] INFO Loaded 0 images...
+11.04 13:01:41 [Server] INFO 171 placeholder expansions are available on the cloud.
